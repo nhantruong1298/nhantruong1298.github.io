@@ -1,6 +1,6 @@
 # Nhan Truong
 
-_Software engineer in VietNam_ <br>
+_Software engineer in VietNam 🇻🇳_ <br>
 
 [Email](mailto:nhantruong1298@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/) / [GitHub](https://github.com/nhantruong1298/) / [Twitter](https://twitter.com/NhanTruong1298/)
 
