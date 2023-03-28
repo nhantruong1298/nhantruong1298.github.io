@@ -2,7 +2,7 @@
 
 _Software engineer in VietNam 🇻🇳_ <br>
 
-[Email](mailto:nhantruong1298@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/nh%C3%A2n-tr%C6%B0%C6%A1ng-b56017165/) / [GitHub](https://github.com/nhantruong1298/) / [Twitter](https://twitter.com/NhanTruong1298/)
+[Email](mailto:nhantruong1298@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/nhan-truong-b56017165/) / [GitHub](https://github.com/nhantruong1298/) / [Twitter](https://twitter.com/NhanTruong1298/)
 
 ## 🧑‍💻 Engineering Experience
 
