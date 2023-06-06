@@ -1,6 +1,6 @@
 # Nhan Truong
 
-_Software engineer in VietNam 🇻🇳_ <br>
+_Flutter Mobile Engineer in VietNam 🇻🇳_ <br>
 
 [Email](mailto:nhantruong1298@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/nhan-truong-b56017165/) / [GitHub](https://github.com/nhantruong1298/) / [Twitter](https://twitter.com/NhanTruong1298/)
 
