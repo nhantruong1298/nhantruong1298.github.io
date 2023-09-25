@@ -6,7 +6,7 @@ _Flutter Mobile Developer in VietNam 🇻🇳_ <br>
 
 ## 🧑‍💻 Development Experience
 
-**Flutter Mobile Developer** @ [TRANSWAP](https://www.transwap.com/) _(Jul 2021 - Present)_ <br>
+**Flutter Mobile Developer** @ [TRANSWAP](https://www.transwap.com/) _(Jul 2021 - Oct 2023)_ <br>
   - Created the application interface according to the template and wrote code in multiple architecture layers, including the application core and integrations with external services.
   - **_Technologies used:_** Flutter, Azure, App Center, Firebase <br>
   - **_Project links:_** [IOS](https://apps.apple.com/app/id1564013302) , [Android](https://play.google.com/store/apps/details?id=com.transwap.luna)
