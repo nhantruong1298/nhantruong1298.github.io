@@ -1,4 +1,4 @@
-# Nhan Truong
+<!-- # Nhan Truong
 
 _Flutter Mobile Developer in VietNam 🇻🇳_ <br>
 
@@ -34,4 +34,4 @@ _Flutter Mobile Developer in VietNam 🇻🇳_ <br>
 
 ## 🧑‍🎓 Education
 **Computer science**<br>
-[Open University](https://ou.edu.vn/) - Ho Chi Minh, VietNam _(Dec 2016)_ <br>
+[Open University](https://ou.edu.vn/) - Ho Chi Minh, VietNam _(Dec 2016)_ <br> -->
