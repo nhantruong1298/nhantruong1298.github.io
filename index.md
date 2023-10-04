@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<br>
 
 ## 👨 About
   I'm Nhan Truong. I've been working as a Flutter mobile developer for three years. My duties included creating interfaces following designs, integrating APIs, and building and deploying products to the app store. I've always been interested in creating software, which is why I chose to follow this career path.
@@ -32,7 +33,7 @@ layout: default
   - Tech:
     - <kbd>Flutter</kbd> <kbd>Firebase</kbd> <kbd>App Center</kbd> <kbd>Azure</kbd>
   - Sites: <br>
-    - [IOS](https://apps.apple.com/app/id1564013302), [Android](https://play.google.com/store/apps/details?id=com.transwap.luna)
+    - [IOS](https://apps.apple.com/app/id1564013302),&nbsp; [Android](https://play.google.com/store/apps/details?id=com.transwap.luna)
 
 **UEH Student** <br>
   - Company Aziworld
@@ -44,7 +45,7 @@ layout: default
   - Tech:
     - <kbd>Flutter</kbd> <kbd>Firebase</kbd> 
   - Sites: <br>
-    - [Android](https://play.google.com/store/apps/details?id=vn.edu.ueh.student&hl=vi&gl=US),[IOS](https://apps.apple.com/us/app/ueh-student/id1560073124)
+    - [Android](https://play.google.com/store/apps/details?id=vn.edu.ueh.student&hl=vi&gl=US),&nbsp; [IOS](https://apps.apple.com/us/app/ueh-student/id1560073124)
 
 
 ## 📌 Volunteering
