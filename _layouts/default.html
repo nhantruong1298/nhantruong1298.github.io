@@ -7,27 +7,16 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-
   </head>
   <body>
     <div class="wrapper">
       <header>
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-        <div style="margin: 0 auto; text-align: center"><a class="button" href="./contact.html">Contact me!</a></div>
+         <div><img src="{{site.logo | relative_url}}" alt="Logo" /></div>
+         <div><a class="button" href="./contact.html">Contact me!</a></div>
       </header>
       <section>
-
       {{ content }}
-
       </section>
-      <!-- <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        
-      </footer> -->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>

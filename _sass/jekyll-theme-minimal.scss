@@ -120,9 +120,12 @@ kbd {
 
 header {
   width:270px;
-  float:left;
+  height: 380px;
+  float:center;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  margin: 0 auto;
+  text-align: center;
 }
 
 ul.downloads {
