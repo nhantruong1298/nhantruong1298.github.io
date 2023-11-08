@@ -4,23 +4,56 @@ layout: default
 
 <br>
 
-## 👨 About
+## 👨 About me
 
-I'm Nhan Truong. I've been working as a Flutter mobile developer for three years. My duties included creating interfaces following designs, integrating APIs, and building and deploying products to the app store. I've always been interested in creating software, which is why I chose to follow this career path.
+I am Nhan Truong, a Flutter mobile developer with over three years of experience. My responsibilities have included:
+- Crafting user interfaces that adhere to design specifications.
+- Seamlessly integrating various APIs.
+- Developing and deploying products on app stores.
 
-## 🔧 Skills
+My driving force is a deep passion for creating software, motivating me to strive for excellence daily. I am seeking new opportunities where I can face more challenges to enhance my skills further and unlock my full potential.
 
-- Dart
-- Flutter
-- Swift
-- Git
+## 🛠 Highlight Skills
 
-## 📦 Projects
+I have experience creating mobile applications in the financial, educational, and management genres, proficient in using Git for source control. Besides that, I am a responsible and punctual worker, and I can work well in a group or on my own.
 
-**KHMartin App** <br>
+## 🔧 Soft Skills
 
-- Freelance job
-- Role: Flutter Mobile Dev _(Jul 2023 - Today)_
+- Teamwork 
+- Problem-Solving Skills
+- Adaptability
+- Creativity
+
+## 📦 WORK EXPERIENCE
+
+**Company: [TranSwap](https://www.transwap.com/)** <br>
+- Role: Flutter Dev _(Jul 2021 - Oct 2023)_
+- Description:
+  - A financial company is developing a mobile application that allows users to transfer money between countries. The application also offers other features such as currency exchange and credit card services.
+- Responsibility:
+  - Maintain, fix bug and implement app features.
+  - Working on Git, Figma.
+  - Discuss with team to clarify requirements and design specication.
+- Technical:
+  - <kbd>Flutter</kbd> <kbd>Firebase</kbd> <kbd>App Center</kbd> <kbd>Azure</kbd>
+- Team size: 4
+- Links: <br>
+  - [IOS](https://apps.apple.com/app/id1564013302),&nbsp;
+    [Android](https://play.google.com/store/apps/details?id=com.transwap.luna)
+
+**Company [Aziworld](http://aziworld.com/)** <br>
+- Role: Junior Dev _(Dec 2020 - May 2021)_
+- Description:
+  - Flutter mobile app allows students to check in online, get UEH's latest event announcements, and look up and perform online services.
+- Technical:
+  - <kbd>Flutter</kbd> <kbd>Firebase</kbd>
+- Team size: 4
+- Links: <br>
+  - [Android](https://play.google.com/store/apps/details?id=vn.edu.ueh.student&hl=vi&gl=US),&nbsp;
+    [IOS](https://apps.apple.com/us/app/ueh-student/id1560073124)
+
+**Freelance job - KH Martin App** <br>
+- Role: Flutter Dev _(Jul 2023 - Today)_
 - Description:
   - Flutter mobile app for student records management, create and edit transcripts for students, and delegate management rights to team members.
 - Responsibility:
@@ -33,24 +66,9 @@ I'm Nhan Truong. I've been working as a Flutter mobile developer for three years
 - Links: <br>
   - [Android](https://play.google.com/store/apps/details?id=com.martin_charity_community)
 
-**TranSwap** <br>
 
-- Company [TranSwap](https://www.transwap.com/)
-- Role: Flutter Mobile Dev _(Jul 2021 - Oct 2023)_
-- Description:
-  - Flutter mobile app for moving money between countries. Simplifying global finance. Make and receive faster and cheaper payments around the world. Convert between multiple foreign currencies and save more with our highly competitive exchange rates.
-- Responsibility:
-  - Maintain, fix bug and implement app features.
-  - Working on Git, Figma.
-  - Discuss with team to clarify requirements and design specication.
-- Technical:
-  - <kbd>Flutter</kbd> <kbd>Firebase</kbd> <kbd>App Center</kbd> <kbd>Azure</kbd>
-- Team size: 4
-- Links: <br>
-  - [IOS](https://apps.apple.com/app/id1564013302),&nbsp;
-    [Android](https://play.google.com/store/apps/details?id=com.transwap.luna)
 
-**Xuan Hoang App** <br>
+**Freelance job-Xuan Hoang App** <br>
 
 - Freelance job
 - Role: Flutter Mobile Dev _(Sep 2022 - Oct 2022)_
@@ -62,19 +80,6 @@ I'm Nhan Truong. I've been working as a Flutter mobile developer for three years
 - Technical:
   - <kbd>Flutter</kbd>
 - Team size: 2
-
-**UEH Student** <br>
-
-- Company [Aziworld](http://aziworld.com/)
-- Role: Junior Flutter Mobile Dev _(Dec 2020 - May 2021)_
-- Description:
-  - Flutter mobile app allows students to check in online, get UEH's latest event announcements, and look up and perform online services.
-- Technical:
-  - <kbd>Flutter</kbd> <kbd>Firebase</kbd>
-- Team size: 4
-- Links: <br>
-  - [Android](https://play.google.com/store/apps/details?id=vn.edu.ueh.student&hl=vi&gl=US),&nbsp;
-    [IOS](https://apps.apple.com/us/app/ueh-student/id1560073124)
 
 ## 📌 Volunteering
 
