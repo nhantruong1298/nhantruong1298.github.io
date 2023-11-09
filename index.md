@@ -6,16 +6,21 @@ layout: default
 
 ## 👨 About me
 
-I am Nhan Truong, a Flutter mobile developer with over three years of experience. My responsibilities have included:
+I am Nhan Truong, a mobile developer with over three years of experience. My responsibilities have included:
 - Crafting user interfaces that adhere to design specifications.
 - Seamlessly integrating various APIs.
 - Developing and deploying products on app stores.
 
 My driving force is a deep passion for creating software, motivating me to strive for excellence daily. I am seeking new opportunities where I can face more challenges to enhance my skills further and unlock my full potential.
 
-## 🛠 Highlight Skills
+## 🛠 Technical Skills
 
-I have experience creating mobile applications in the financial, educational, and management genres, proficient in using Git for source control. Besides that, I am a responsible and punctual worker, and I can work well in a group or on my own.
+- Programming Languages:
+  - Flutter 
+- Others:
+  - Familiarity with MVP architecture.
+  - Good understanding of OOP methodologies. 
+  - Git, Figma.
 
 ## 🔧 Soft Skills
 
