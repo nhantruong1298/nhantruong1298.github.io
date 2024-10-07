@@ -18,7 +18,7 @@ const Contact = () => {
       <Label>Contact</Label>
       <Table>
         {Object.entries(data).map(([name, value]) => {
-          return <InfoField>
+          return <InfoField key={name}>
             <FieldName>{name.toUpperCase()}:</FieldName>
             <FieldValue>{value}</FieldValue>
           </InfoField>;

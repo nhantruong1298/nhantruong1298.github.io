@@ -34,7 +34,6 @@ export const InfoFieldTitle = styled.div`
   justify-content: center;
   display: flex;
   flex: 1;
-  /* background-color: black; */
 `;
 
 export const InfoFieldDescriptionContainer = styled.div`
@@ -65,7 +64,6 @@ export const Company = styled.div`
 export const ProjectDescription = styled.div`
   margin-bottom: 16px;
   font-size: 16px;
-  /* display: flex; */
 `;
 
 export const Responsibility = styled.div`

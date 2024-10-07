@@ -20,6 +20,7 @@ import {
 const Resume = () => {
   const data = [
     {
+      id: "4",
       company: "Freelancer Job",
       role: "Flutter Developer",
       timeline: "Jul 2023 - Present",
@@ -31,12 +32,12 @@ const Resume = () => {
         "Manage the mobile app on the Google Play Store and App Store.",
         "Configure automated build and deployment of the mobile application with Code Magic CI/CD.",
         "Deploy the web app with Firebase hosting.",
-        
       ],
       technology: "Firebase, Supabase, Magic Code CI/CD.",
       teamSize: "3",
     },
     {
+      id: "3",
       company: "TranSwap Private Limited",
       role: "Flutter Developer",
       timeline: "Jul 2021 - Oct 2023",
@@ -53,10 +54,12 @@ const Resume = () => {
       teamSize: "3",
     },
     {
+      id: "2",
       company: "Freelancer Job",
       role: "Flutter Developer",
       timeline: "Sep 2022 - Nov 2022",
-      projectDescription: "Furniture Repair Staff: Mobile App for Check-in, Photos E-Signatures",
+      projectDescription:
+        "Furniture Repair Staff: Mobile App for Check-in, Photos E-Signatures",
       responsibility: [
         "Fix bug and improve app features.",
         "Code UI based on Figma specifications.",
@@ -65,6 +68,7 @@ const Resume = () => {
       teamSize: "2",
     },
     {
+      id: "1",
       company: "AziWorld VietNam",
       role: "Fresher Flutter Developer",
       timeline: "Dec 2020 - Jul 2021",
@@ -83,7 +87,7 @@ const Resume = () => {
     <ResumeContainer>
       <ResumeLabel>Resume</ResumeLabel>
 
-      <InfoFieldContainer>
+      <InfoFieldContainer key="work-experiment">
         <InfoFieldTitle>
           Work <br />
           Experience
@@ -91,10 +95,10 @@ const Resume = () => {
         <InfoFieldDescriptionContainer>
           {data.map((data) => {
             return (
-              <Description>
+              <Description key={data.id}>
                 <TimeLine>{data.timeline}</TimeLine>
                 <Detail>
-                  <Company c>{data.company}</Company>
+                  <Company>{data.company}</Company>
                   <Role>
                     <b>Role:</b> {data.role}
                   </Role>
@@ -105,7 +109,7 @@ const Resume = () => {
                     <b>Responsibility</b>
                     <ul>
                       {data.responsibility.map((res) => {
-                        return <Content className="content">{res}</Content>;
+                        return <Content key={res}>{res}</Content>;
                       })}
                     </ul>
                   </Responsibility>
@@ -114,10 +118,8 @@ const Resume = () => {
                   </TeamSize>
 
                   <Technology>
-                  <b>Technology description:</b> {data.technology}
-
+                    <b>Technology description:</b> {data.technology}
                   </Technology>
-
                 </Detail>
               </Description>
             );
@@ -126,7 +128,7 @@ const Resume = () => {
       </InfoFieldContainer>
 
       <Divider />
-      <InfoFieldContainer>
+      <InfoFieldContainer key="courses">
         <InfoFieldTitle>Courses</InfoFieldTitle>
         <InfoFieldDescriptionContainer>
           ZTM Academy <br />
@@ -135,7 +137,7 @@ const Resume = () => {
       </InfoFieldContainer>
 
       <Divider />
-      <InfoFieldContainer>
+      <InfoFieldContainer key="education">
         <InfoFieldTitle>Education</InfoFieldTitle>
         <InfoFieldDescriptionContainer>
           Ho Chi Minh Open University (2016 - 2020) <br />

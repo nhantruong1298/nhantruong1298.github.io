@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <div className="footer">
       {/* <div className="horizontal-divider"></div> */}
-      <hr class="solid"/>
+      <hr className="solid"/>
       <div className="info-container">
         <div className="info-field">
           <h3>Phone</h3>

@@ -55,7 +55,7 @@ const Projects = () => {
       <Label>Projects</Label>
       {projectsData.map((value) => {
         return (
-          <InfoFieldContainer>
+          <InfoFieldContainer key={value.name}>
             <TitleAndDescriptionContainer>
               <Title>{value.name}</Title>
               <Description>{value.description}</Description>
