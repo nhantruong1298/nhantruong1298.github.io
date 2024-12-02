@@ -1,15 +1,8 @@
 .footer {
   display: flex;
   flex-direction: column;
-
-  margin: 0 32px;
-
-  // .horizontal-divider {
-  //   width: 100vw;
-  //   height: 0.5px;
-  //   background-color: #bbbbbb;
-  //   margin: 10px 0px 26px 0px;
-  // }
+  // position: fixed; // or absolute, fixed
+  // z-index: 10; // Adj
 
   .info-container {
     display: flex;
@@ -40,6 +33,5 @@
   hr.solid {
     width: 100%;
     border-top: 1px solid #bbbbbb;
-    // margin: 0 32px;
   }
 }

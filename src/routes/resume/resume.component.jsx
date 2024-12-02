@@ -21,12 +21,12 @@ const Resume = () => {
   const data = [
     {
       id: "4",
-      company: "Freelancer Job",
+      company: "Happy & Idea Trading Service Company Limited",
       role: "Flutter Developer",
       timeline: "Jul 2023 - Present",
       projectDescription: "Mobile App for Study Promotion Grant Management",
       responsibility: [
-        "Work directly with clients, estimate task timelines, and provide suggestions for application development.",
+        "Manage and estimate task timelines, and provide suggestions for application development.",
         "Build the project from scratch using the Flutter framework for Android, iOS, and web app platforms.",
         "Perform functions within the application such as sign-in/sign-up/account deletion, image selection and upload to server, notification, student information creation, and member permission assignment.",
         "Manage the mobile app on the Google Play Store and App Store.",

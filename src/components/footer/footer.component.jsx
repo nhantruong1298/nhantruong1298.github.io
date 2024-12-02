@@ -1,15 +1,17 @@
 import "./footer.styles.scss";
 import linkedIcon from "../../assets/icons/linked-icon.png";
 
+
 const Footer = () => {
   const handleGoToLinked = () => {
     window.open("https://www.linkedin.com/in/nhan-truong-b56017165/");
   };
 
+
   return (
     <div className="footer">
-      {/* <div className="horizontal-divider"></div> */}
-      <hr className="solid"/>
+      <hr className="solid" />
+
       <div className="info-container">
         <div className="info-field">
           <h3>Phone</h3>

@@ -3,15 +3,26 @@ import { Outlet, Link } from "react-router-dom";
 
 import Footer from "../../components/footer/footer.component";
 
+import { useMediaQuery } from "react-responsive";
+
 import "./navigation.styles.scss";
 
 const Navigation = () => {
+  const isTabletOrMobile = useMediaQuery({ query: "(max-width: 1224px)" });
+  const isDesktopOrLaptop = useMediaQuery({
+    query: "(min-width: 1224px)",
+  });
+
   return (
     <Fragment>
-      <div className="navigation">
+      {/* <div className="navigation">
         <Link className="logo-container" to="/">
-          <div className="name">Nhan Truong</div>
-          {/* <div className="position">Flutter Developer</div> */}
+          {
+            <div className="name">
+              {isDesktopOrLaptop && "Nhan Truong"}
+              {isTabletOrMobile && "NhanTr"}
+            </div>
+          }
         </Link>
         <div className="nav-links-container">
           <Link to="resume">
@@ -26,9 +37,9 @@ const Navigation = () => {
             <div className="nav-link">Contact</div>
           </Link>
         </div>
-      </div>
+      </div> */}
       <Outlet />
-      <Footer />
+      {/* <Footer /> */}
     </Fragment>
   );
 };

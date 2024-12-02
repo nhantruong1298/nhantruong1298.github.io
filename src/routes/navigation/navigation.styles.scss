@@ -4,11 +4,10 @@
   padding: 16px 16px;
   position: fixed;
   background-color: #f3f3f3;
-  margin: 0 32px;
   top: 0;
   left: 0;
+  right: 0;
   width: 100%;
-
 
   .logo-container {
     display: flex;
@@ -35,12 +34,14 @@
 
   .nav-links-container {
     display: flex;
+    justify-content: flex-end;
     width: 250px;
+
     .nav-link {
       font-size: 16px;
     }
 
-    .vertical-divider{
+    .vertical-divider {
       height: 100%;
       width: 1px;
       background-color: black;
